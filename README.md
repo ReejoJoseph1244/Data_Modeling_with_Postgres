@@ -58,6 +58,8 @@ country, taxrate
 
 ```etl.py``` -> read and process **dimcountry** , **dimposition** , **dimindustry** and **dimtax**
 
+```dataclean.py``` -> cleans the data ie removes unwanted cloumns from the csv file.
+
 ## Environment 
 Python 3.6 or above
 
