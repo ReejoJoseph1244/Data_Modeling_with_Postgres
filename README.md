@@ -1,1 +1,1 @@
-# Data_Modeling_with_Postgres
+In this project, we apply Data Modeling with Postgres and build an ETL pipeline using Python. A Business Consulation startup wants to analyze the data they've been collecting on Startups in different countries , their growth and Coperate taxes for their own Business Expansion and for consulting their Clients. Currently, they are collecting data in CSV format and the analytics team is particularly interested in understanding how the startup culture in the world for FY 2022.
